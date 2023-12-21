@@ -1,0 +1,9 @@
+{
+  "name": "com.unity.template.QuestXRHands21",
+  "displayName": "QuestXRHands21",
+  "version": "1.0.2",
+  "type": "template",
+  "unity": "2021.3",
+  "description": "This template is a starting point for building Quest apps with XR Interaction Toolkit and hand tracking.",
+  "dependencies": {}
+}
