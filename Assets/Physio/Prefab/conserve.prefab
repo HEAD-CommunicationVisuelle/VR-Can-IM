@@ -135,7 +135,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 0f3cf2e4d3d754556af0ee1bb5846d3d, type: 3}
   - {fileID: 8300000, guid: 7f0d2158fba664a2685fc42136a5c63b, type: 3}
   - {fileID: 8300000, guid: c0716737cc68e4cda8233cda5ab93573, type: 3}
-  PlayOnCollisionEnter: 0
+  PlayOnCollisionEnter: 1
   PlayOnCollisionExit: 0
   PlayOnTriggerEnter: 0
   PlayOnTriggerExit: 0
